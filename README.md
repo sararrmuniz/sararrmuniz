@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Olá!<br>Meu nome é Sara e sou graduada em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU). Atuo como desenvolvedora Front-end desde 2025, com experiência em desenvolvimento web utilizando HTML, CSS, JavaScript e React. Tenho experiência na integração com APIs REST, criação de interfaces responsivas e aplicação de boas práticas de UI/UX e acessibilidade.
+<p align="left">Olá!<br>Meu nome é Sara e sou graduada em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU). Atuo como desenvolvedora Front-end desde 2025, com experiência em desenvolvimento web utilizando HTML, CSS, JavaScript e React. Tenho experiência na integração com APIs REST, criação de interfaces responsivas e aplicação de boas práticas de UI/UX e acessibilidade.</p>
 <br>
-Acredito que a tecnologia é uma ferramenta capaz de conectar pessoas, solucionar problemas e gerar impactos positivos na sociedade, motivando meu desenvolvimento contínuo na área.</p>
+<p>Acredito que a tecnologia é uma ferramenta capaz de conectar pessoas, solucionar problemas e gerar impactos positivos na sociedade, motivando meu desenvolvimento contínuo na área :)</p>
 
 ###
 
