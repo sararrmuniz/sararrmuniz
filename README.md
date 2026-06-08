@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá!<br>Meu nome é Sara e sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Acredito no poder da tecnologia para transformar a interação entre indivíduos e promover mudanças positivas na sociedade.</p>
+<p align="left">Olá!<br>Meu nome é Sara e sou graduada em Sistemas de Informação na Universidade Federal de Uberlândia (UFU) e atuo como desenvolvedora Front-end desde 2025, tendo experiência prática em desenvolvimento web em ambiente profissional, com atuação em HTML, CSS, JavaScript moderno e React, além de integração com APIs REST e aplicação de princípios de UI/UX e acessibilidade. A partir das minhas vivências, acredito no poder da tecnologia para transformar a interação entre indivíduos e promover mudanças positivas na sociedade e no dia a dia das pessoas :)</p>
 
 ###
 
