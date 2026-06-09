@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
