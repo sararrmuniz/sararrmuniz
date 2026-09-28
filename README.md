@@ -42,8 +42,6 @@ Atualmente, busco continuar evoluindo como desenvolvedora, aprimorando meus conh
 
 <h2 align="left">📊 Estatísticas</h2>
 
-<h2 align="left">📊 Estatísticas</h2>
-
 <div align="center">
 
   <img
