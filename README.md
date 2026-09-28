@@ -12,6 +12,10 @@ Atuo como desenvolvedora Front-end desde 2025, com experiência em desenvolvimen
 Atualmente, busco continuar evoluindo como desenvolvedora, aprimorando meus conhecimentos em Front-end, React e desenvolvimento de aplicações web.
 </p>
 
+<p align="left">
+Para saber mais: https://sararrmuniz.github.io/sobre-mim-portifolio/
+</p>
+
 ---
 
 <h2 align="left">💻 Tecnologias</h2>
