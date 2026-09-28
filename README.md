@@ -42,19 +42,33 @@ Atualmente, busco continuar evoluindo como desenvolvedora, aprimorando meus conh
 
 <h2 align="left">📊 Estatísticas</h2>
 
+<h2 align="left">📊 Estatísticas</h2>
+
 <div align="center">
 
-<img
- src="https://github-readme-stats.vercel.app/api?username=sararrmuniz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&locale=pt-br"
- height="170"
- alt="Estatísticas do GitHub"
-/>
+  <img
+    src="./profile/stats.svg"
+    height="170"
+    alt="Estatísticas do GitHub"
+  />
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararrmuniz&layout=compact&langs_count=6&theme=gruvbox&locale=pt-br"
- height="170"
- alt="Linguagens mais utilizadas"
-/>
+  <img
+    src="./profile/top-langs.svg"
+    height="170"
+    alt="Linguagens mais utilizadas"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=sararrmuniz&theme=gruvbox&locale=pt_BR"
+    height="170"
+    alt="GitHub Streak"
+  />
 
 </div>
 
