@@ -72,16 +72,6 @@ Atualmente, busco continuar evoluindo como desenvolvedora, aprimorando meus conh
 
 <br>
 
-<div align="center">
-
-<img
- src="https://streak-stats.demolab.com?user=sararrmuniz&theme=gruvbox&locale=pt_BR"
- height="170"
- alt="GitHub Streak"
-/>
-
-</div>
-
 ---
 
 <h2 align="left">🌐 Redes Sociais</h2>
